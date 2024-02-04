@@ -4,7 +4,7 @@
 #include <cstdint>
 #include <vector>
 
-#include "secp256k1.h"
+#include <secp256k1.h>
 
 namespace ecdsa {
 

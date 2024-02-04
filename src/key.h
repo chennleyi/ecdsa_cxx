@@ -6,7 +6,7 @@
 #include <tuple>
 #include <vector>
 
-#include "secp256k1.h"
+#include <secp256k1.h>
 
 #include "pub_key.h"
 
